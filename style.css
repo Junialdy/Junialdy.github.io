@@ -22,6 +22,7 @@ body {
 	font-family: Poppins, sans-serif;
 	background-color: #ffff;
 	color: var(--text-color);
+	margin-bottom: 3rem;
 }
 
 #profile-background {
